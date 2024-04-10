@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/usingAsync/bin/Debug/net7.0/usingAsync
+/Users/tylerbreithaupt/Desktop/CIT195/usingAsync/bin/Debug/net7.0/usingAsync.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/usingAsync/bin/Debug/net7.0/usingAsync.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/usingAsync/bin/Debug/net7.0/usingAsync.dll
+/Users/tylerbreithaupt/Desktop/CIT195/usingAsync/bin/Debug/net7.0/usingAsync.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/usingAsync/obj/Debug/net7.0/usingAsync.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/usingAsync/obj/Debug/net7.0/usingAsync.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/usingAsync/obj/Debug/net7.0/usingAsync.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/usingAsync/obj/Debug/net7.0/usingAsync.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/usingAsync/obj/Debug/net7.0/usingAsync.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/usingAsync/obj/Debug/net7.0/usingAsync.dll
+/Users/tylerbreithaupt/Desktop/CIT195/usingAsync/obj/Debug/net7.0/refint/usingAsync.dll
+/Users/tylerbreithaupt/Desktop/CIT195/usingAsync/obj/Debug/net7.0/usingAsync.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/usingAsync/obj/Debug/net7.0/usingAsync.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/usingAsync/obj/Debug/net7.0/ref/usingAsync.dll
